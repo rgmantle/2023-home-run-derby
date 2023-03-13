@@ -1,0 +1,5 @@
+.PlayerList {
+    display: grid;
+    grid-template-columns: 4;
+    grid-gap: 12px;
+}
